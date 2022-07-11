@@ -1,8 +1,16 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot 2022-07-11 at 19-28-56 Who Wants ToBe A Millionaire](https://user-images.githubusercontent.com/66368354/178333266-a50906fa-03d5-4043-a571-2f64c3e82f0e.png)
 
-## Available Scripts
+
+
+![Screenshot 2022-07-11 at 19-29-07 Who Wants ToBe A Millionaire](https://user-images.githubusercontent.com/66368354/178333278-87ce3808-c962-4b0d-ac1f-3ad518d1c066.png)
+
+
+
+## Available S![Screenshot 2022-07-11 at 19-29-18 Who Wants ToBe A Millionaire](https://user-images.githubusercontent.com/66368354/178333291-a8be1379-6c67-408c-8c27-7c1ee37245a0.png)
+cripts
 
 In the project directory, you can run:
 
