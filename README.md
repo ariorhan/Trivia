@@ -1,4 +1,4 @@
-## Quiz App (Who wants to be a millionaire?)
+## Trivia App (Who wants to be a millionaire?)
 link is here https://quizapp-orhanari.netlify.app/
 
 
